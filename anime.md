@@ -1,0 +1,1 @@
+- Zeke in attack on titan is the best character due to his many hard ships. He has to pretend to be this care free and care less individual but deep down he does care.

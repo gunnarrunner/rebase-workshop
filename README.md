@@ -16,7 +16,7 @@ This is just a base template for a README with `Lorem Ipsum`, used for the [Reba
 
 REQUIREMENTS
 ------------
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum facilisis leo vel fringilla est ullamcorper eget. Eget arcu dictum varius duis. At imperdiet dui accumsan sit amet. Ullamcorper a lacus vestibulum sed arcu non odio. Aliquet eget sit amet tellus cras. Nibh praesent tristique magna sit amet purus gravida. Facilisi etiam dignissim diam quis enim lobortis scelerisque fermentum.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum facilisis leo vel fringilla est ullamcorper eget. Eget arcu dictum varius duis. At imperdiet dui accumsan sit amet. Ullamcorper a lacus vestibulum sed arcu non odio. Aliquet eget sit amet tellus cras. Zeke is da best.
 
 RECOMMENDED MODULES
 -------------------
@@ -33,7 +33,8 @@ INSTALLATION
 3. Montes nascetur ridiculus mus mauris. 
 4. Accumsan tortor posuere ac ut consequat semper. 
 5. Id semper risus in hendrerit gravida rutrum. 
-6. Vel facilisis volutpat est velit egestas dui id.
+6. Bundle 
+7. Bundle update
 
 CONFIGURATION
 -------------
