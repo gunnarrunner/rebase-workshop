@@ -33,7 +33,8 @@ INSTALLATION
 3. Montes nascetur ridiculus mus mauris. 
 4. Accumsan tortor posuere ac ut consequat semper. 
 5. Id semper risus in hendrerit gravida rutrum. 
-6. Vel facilisis volutpat est velit egestas dui id.
+6. Bundle 
+7. Bundle update
 
 CONFIGURATION
 -------------
